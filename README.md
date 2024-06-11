@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaoScarlett
-- 👀 I’m interested in Front-End Dev.
-- 🌱 I’m currently learning HTML, CSS, JS, and CS50. 
+- 👀 I’m a self-taught Front-End developer.
+- 🌱 I’m currently learning HTML, CSS, JS, React and CS50. 
 - 📫 How to reach me :scarletthaohao@gmail.com
 
 <!---
