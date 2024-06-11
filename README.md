@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HaoScarlett
-- 👀 I’m a self-taught Front-End developer.
+- 👩🏻‍💻 I’m a self-taught Front-End developer.
 - 🌱 I’m currently learning HTML, CSS, JS, React and CS50. 
 - 📫 How to reach me :scarletthaohao@gmail.com
 
